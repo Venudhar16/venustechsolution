@@ -1,0 +1,47 @@
+#photo {
+  display: block;
+  margin-top: 5rem;
+  margin-left: 31rem;
+  margin-right: 35rem;
+  margin-bottom: 5rem;
+  width: 20rem;
+  height: 20rem;
+}
+body {
+  background-color: lightgreen;
+}
+.Nameofclient {
+  font-size: 3rem;
+  text-align: center;
+}
+.aboutme {
+  font-size: 2rem;
+  text-align: center;
+}
+.abt1 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+.contactdetails {
+  font-size: 2rem;
+  text-align: left;
+}
+ul li {
+  list-style-type: circle;
+}
+ul li a {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: darkgreen;
+  font-size: 1.5rem;
+}
+#request {
+  font-size: 2rem;
+  color: greenyellow;
+  background-color: black;
+}
+.link {
+  font-size: 1.5rem;
+  text-align: center;
+  text-decoration:dotted
+}
